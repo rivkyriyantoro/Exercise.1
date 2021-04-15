@@ -1,0 +1,17 @@
+<resources>
+    <string name="text_sign_in">lets work, be creative!</string>
+    <string name="text_sign_in_subtitle">Welcome, please sign in to continue</string>
+
+    <string name="app_name">Exercise.1</string>
+    <string name="tEmail">Email</string>
+    <string name="tPassword">Password</string>
+    <string name="tombol">Sign-In</string>
+
+    <string name="namaitem">Nama Item</string>
+    <string name="datakontak">Data Kontak</string>
+    <string name="detailkontak">Detail Kontak</string>
+    <string name="nama">Nama</string>
+    <string name="notel">Nomor Telpon</string>
+    <string name="lihatdata">Lihat Data</string>
+    <string name="lihatnomor">Lihat Nomor</string>
+</resources>
